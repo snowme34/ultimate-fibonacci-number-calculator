@@ -5,3 +5,5 @@ Use polynomial, dynamic programming and big-number-addition strategies to calcul
 Written in c++.
 
 Using the convention that the 0th number is 0, the 1st number is 1.
+
+Worst run time is estimated to be O(n^2).
